@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+Nav {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  min-height: 10vh;
+  background: #000;
+  color: white;
+}
+#logo{
+  padding: 5px;
+  margin-left: -245px;
+  margin-top: 20px;
+}
+
+#homeimg{
+  margin-top: 180px;
+}
+
+#pages{
+  margin-right: -205px;
+}
+body{
+color: 3c4854;
+}
